@@ -1,0 +1,5 @@
+﻿{
+  "version": "1.0.0",
+  "download_url": "https://github.com/votre-username/manhwa-extractor/releases/latest",
+  "release_notes": "Version initiale\n- Extraction de texte OCR\n- Export vers DOCX"
+}
